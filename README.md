@@ -9,20 +9,37 @@ Sistema de inteligencia artificial que detecta y clasifica emociones faciales en
 - FER (Facial Emotion Recognition)
 ---
 ## ⚙️ Instalación
-```bash
+# Clonar repositorio
 git clone https://github.com/fguerra369/detector-emociones.git
 cd detector-emociones
-pip install -r requirements.txt
-python Emociones.py
 
+# Crear entorno virtual (recomendado)
+python -m venv .venv
+
+# Activar entorno
+.venv\Scripts\activate  # Windows
+source .venv/bin/activate  # Mac/Linux
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Ejecutar
+python Emociones.py
+---
 🎓 Casos de Uso
 
--Análisis de sentimientos en customer service
--Investigación en psicología y comportamiento
--Sistemas de seguridad inteligentes
--Marketing y UX research
--Aplicaciones de salud mental
-
+💼 Análisis de sentimientos en customer service
+🧠 Investigación en psicología y comportamiento
+🔒 Sistemas de seguridad inteligentes
+📊 Marketing y UX research
+💚 Aplicaciones de salud mental
+---
+📊 Arquitectura del Sistema
+┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌──────────────┐
+│ Video Input │ --> │ Face Detect  │ --> │   CNN Model │ --> │   Emotion    │
+│  (Webcam)   │     │   (MTCNN)    │     │   (FER)     │     │ Classification│
+└─────────────┘     └──────────────┘     └─────────────┘     └──────────────┘
+---
 📸 Demostración
 
 El sistema detecta emociones en tiempo real y muestra la probabilidad de cada una:
@@ -33,8 +50,13 @@ El sistema detecta emociones en tiempo real y muestra la probabilidad de cada un
 😡 Enojado
 😮 Sorprendido
 
+Controles:
 
-<img width="1014" height="744" alt="Resultado_emocion_" src="https://github.com/user-attachments/assets/6c566d97-50a8-4f6f-8a3c-d4aad1591887" />
+Q - Salir del programa
+S - Capturar screenshot
+
+
+![Demostración del sistema](https://github.com/user-attachments/assets/ https://github.com/user-attachments/assets/368b56a9-43e8-4cdf-b676-54068420d764]
 
 
 👨‍💻 Autor 
