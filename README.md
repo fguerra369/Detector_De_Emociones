@@ -33,7 +33,8 @@ El sistema detecta emociones en tiempo real y muestra la probabilidad de cada un
 😡 Enojado
 😮 Sorprendido
 
-<img width="1014" height="744" alt="Resultado_emocion_" src="https://github.com/user-attachments/assets/79db72f8-e0b7-4e34-a1ac-dfd3ff7fd3c4" />
+
+<img width="1014" height="744" alt="Resultado_emocion_" src="https://github.com/user-attachments/assets/6c566d97-50a8-4f6f-8a3c-d4aad1591887" />
 
 
 👨‍💻 Autor 
