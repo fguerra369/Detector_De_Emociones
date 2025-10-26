@@ -10,27 +10,28 @@ Sistema de inteligencia artificial que detecta y clasifica emociones faciales en
 ---
 ## ⚙️ Instalación
 
-Clonar repositorio
+- Clonar repositorio
 
   git clone https://github.com/fguerra369/detector-emociones.git
   
   cd detector-emociones
 
-Crear entorno virtual (recomendado)
+- Crear entorno virtual (recomendado)
 
   python -m venv .venv
 
-Activar entorno
+- Activar entorno
 
   .venv\Scripts\activate  # Windows
   
   source .venv/bin/activate  # Mac/Linux
 
-Instalar dependencias
+- Instalar dependencias
 
   pip install -r requirements.txt
 
-Ejecutar
+- Ejecutar
+- 
   python Emociones.py
   
 ---
