@@ -9,22 +9,30 @@ Sistema de inteligencia artificial que detecta y clasifica emociones faciales en
 - FER (Facial Emotion Recognition)
 ---
 ## ⚙️ Instalación
+
 Clonar repositorio
+
   git clone https://github.com/fguerra369/detector-emociones.git
-cd detector-emociones
+  
+  cd detector-emociones
 
 Crear entorno virtual (recomendado)
+
   python -m venv .venv
 
 Activar entorno
+
   .venv\Scripts\activate  # Windows
+  
   source .venv/bin/activate  # Mac/Linux
 
 Instalar dependencias
+
   pip install -r requirements.txt
 
 Ejecutar
   python Emociones.py
+  
 ---
 ## 🎓 Casos de Uso
 💼 Análisis de sentimientos en customer service
