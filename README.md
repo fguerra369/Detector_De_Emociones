@@ -9,39 +9,44 @@ Sistema de inteligencia artificial que detecta y clasifica emociones faciales en
 - FER (Facial Emotion Recognition)
 ---
 ## ⚙️ Instalación
-# Clonar repositorio
-git clone https://github.com/fguerra369/detector-emociones.git
+Clonar repositorio
+  git clone https://github.com/fguerra369/detector-emociones.git
 cd detector-emociones
 
-# Crear entorno virtual (recomendado)
-python -m venv .venv
+Crear entorno virtual (recomendado)
+  python -m venv .venv
 
-# Activar entorno
-.venv\Scripts\activate  # Windows
-source .venv/bin/activate  # Mac/Linux
+Activar entorno
+  .venv\Scripts\activate  # Windows
+  source .venv/bin/activate  # Mac/Linux
 
-# Instalar dependencias
-pip install -r requirements.txt
+Instalar dependencias
+  pip install -r requirements.txt
 
-# Ejecutar
-python Emociones.py
+Ejecutar
+  python Emociones.py
 ---
-🎓 Casos de Uso
-
+#🎓 Casos de Uso
 💼 Análisis de sentimientos en customer service
+
 🧠 Investigación en psicología y comportamiento
+
 🔒 Sistemas de seguridad inteligentes
+
 📊 Marketing y UX research
+
 💚 Aplicaciones de salud mental
+
 ---
-📊 Arquitectura del Sistema
+#📊 Arquitectura del Sistema
+
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌──────────────┐
 │ Video Input │ --> │ Face Detect  │ --> │   CNN Model │ --> │   Emotion    │
 │  (Webcam)   │     │   (MTCNN)    │     │   (FER)     │     │ Classification│
 └─────────────┘     └──────────────┘     └─────────────┘     └──────────────┘
----
-📸 Demostración
 
+---
+#📸 Demostración
 El sistema detecta emociones en tiempo real y muestra la probabilidad de cada una:
 
 😐 Neutral
@@ -50,7 +55,7 @@ El sistema detecta emociones en tiempo real y muestra la probabilidad de cada un
 😡 Enojado
 😮 Sorprendido
 
-Controles:
+#Controles:
 
 Q - Salir del programa
 S - Capturar screenshot
@@ -59,5 +64,5 @@ S - Capturar screenshot
 ![Demostración del sistema](https://github.com/user-attachments/assets/ https://github.com/user-attachments/assets/368b56a9-43e8-4cdf-b676-54068420d764]
 
 
-👨‍💻 Autor 
+#👨‍💻 Autor 
 Fabián Guerra C.
