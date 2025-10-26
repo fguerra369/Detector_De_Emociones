@@ -26,7 +26,7 @@ Instalar dependencias
 Ejecutar
   python Emociones.py
 ---
-##🎓 Casos de Uso
+## 🎓 Casos de Uso
 💼 Análisis de sentimientos en customer service
 
 🧠 Investigación en psicología y comportamiento
@@ -46,7 +46,7 @@ Ejecutar
 └─────────────┘     └──────────────┘     └─────────────┘     └──────────────┘
 
 ---
-##📸 Demostración
+## 📸 Demostración
 El sistema detecta emociones en tiempo real y muestra la probabilidad de cada una:
 
 😐 Neutral
@@ -64,5 +64,5 @@ S - Capturar screenshot
 ![Demostración del sistema](https://github.com/user-attachments/assets/ https://github.com/user-attachments/assets/368b56a9-43e8-4cdf-b676-54068420d764]
 
 
-##👨‍💻 Autor 
+## 👨‍💻 Autor 
 Fabián Guerra C.
