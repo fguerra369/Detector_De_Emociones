@@ -58,11 +58,10 @@ El sistema detecta emociones en tiempo real y muestra la probabilidad de cada un
 # Controles:
 
 Q - Salir del programa
-S - Capturar screenshot
 
+S - Capturar screenshot  
 
-![Demostración del sistema](https://github.com/user-attachments/assets/ https://github.com/user-attachments/assets/368b56a9-43e8-4cdf-b676-54068420d764]
-
+ 
 
 ## 👨‍💻 Autor 
 Fabián Guerra C.
