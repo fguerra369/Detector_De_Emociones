@@ -38,7 +38,7 @@ Ejecutar
 💚 Aplicaciones de salud mental
 
 ---
-##📊 Arquitectura del Sistema
+## 📊 Arquitectura del Sistema
 
 ┌─────────────┐     ┌──────────────┐     ┌─────────────┐     ┌──────────────┐
 │ Video Input │ --> │ Face Detect  │ --> │   CNN Model │ --> │   Emotion    │
@@ -55,7 +55,7 @@ El sistema detecta emociones en tiempo real y muestra la probabilidad de cada un
 😡 Enojado
 😮 Sorprendido
 
-#Controles:
+# Controles:
 
 Q - Salir del programa
 S - Capturar screenshot
