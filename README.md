@@ -31,7 +31,7 @@ Sistema de inteligencia artificial que detecta y clasifica emociones faciales en
   pip install -r requirements.txt
 
 - Ejecutar
-- 
+ 
   python Emociones.py
   
 ---
