@@ -64,6 +64,9 @@ El sistema detecta emociones en tiempo real y muestra la probabilidad de cada un
 😡 Enojado
 😮 Sorprendido
 
+<img width="1014" height="744" alt="Resultado_emocion_" src="https://github.com/user-attachments/assets/28fd6b74-14d2-431b-8777-8ad19c332b88" />
+
+
 # Controles:
 
 Q - Salir del programa
